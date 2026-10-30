@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <!-- Custom SOS App Palette -->
+    <color name="deep_burgundy">#4A1525</color>
+    <color name="charcoal_gray">#2D3142</color>
+    <color name="pale_pink">#F3C6DF</color>
+    <color name="soft_cream">#F9F6F0</color>
+    <color name="sage_green">#9DC88D</color>
+    <color name="dusty_rose">#D8A47F</color>
+    <color name="oatmeal_beige">#E3DAC9</color>
+    <color name="apricot_peach">#FFDAB9</color>
+    <color name="white">#FFFFFF</color>
+</resources>
